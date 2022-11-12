@@ -3,11 +3,11 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 body{
-    background-image: url(../images/clothes.jpg);
+    background-image: url("../images/clothes.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

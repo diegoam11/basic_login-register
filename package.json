@@ -1,0 +1,26 @@
+{
+  "name": "login_registro_project",
+  "version": "1.0.0",
+  "description": "tests with nodejs and jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoam11/basic_login-register.git"
+  },
+  "keywords": [
+    "test",
+    "jest"
+  ],
+  "author": "Diego Alvarez More",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegoam11/basic_login-register/issues"
+  },
+  "homepage": "https://github.com/diegoam11/basic_login-register#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
